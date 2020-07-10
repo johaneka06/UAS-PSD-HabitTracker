@@ -1,0 +1,9 @@
+D:\Binus University\Semester 4\Pattern Software Design\Exam\Final Exam\Answer\Abc.HabitTracker\bin\Debug\netstandard2.0\Abc.HabitTracker.deps.json
+D:\Binus University\Semester 4\Pattern Software Design\Exam\Final Exam\Answer\Abc.HabitTracker\bin\Debug\netstandard2.0\Abc.HabitTracker.dll
+D:\Binus University\Semester 4\Pattern Software Design\Exam\Final Exam\Answer\Abc.HabitTracker\bin\Debug\netstandard2.0\Abc.HabitTracker.pdb
+D:\Binus University\Semester 4\Pattern Software Design\Exam\Final Exam\Answer\Abc.HabitTracker\obj\Debug\netstandard2.0\Abc.HabitTracker.csprojAssemblyReference.cache
+D:\Binus University\Semester 4\Pattern Software Design\Exam\Final Exam\Answer\Abc.HabitTracker\obj\Debug\netstandard2.0\Abc.HabitTracker.csproj.CoreCompileInputs.cache
+D:\Binus University\Semester 4\Pattern Software Design\Exam\Final Exam\Answer\Abc.HabitTracker\obj\Debug\netstandard2.0\Abc.HabitTracker.AssemblyInfoInputs.cache
+D:\Binus University\Semester 4\Pattern Software Design\Exam\Final Exam\Answer\Abc.HabitTracker\obj\Debug\netstandard2.0\Abc.HabitTracker.AssemblyInfo.cs
+D:\Binus University\Semester 4\Pattern Software Design\Exam\Final Exam\Answer\Abc.HabitTracker\obj\Debug\netstandard2.0\Abc.HabitTracker.dll
+D:\Binus University\Semester 4\Pattern Software Design\Exam\Final Exam\Answer\Abc.HabitTracker\obj\Debug\netstandard2.0\Abc.HabitTracker.pdb
